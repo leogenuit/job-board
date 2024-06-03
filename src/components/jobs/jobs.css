@@ -1,0 +1,13 @@
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+.margin-bottom {
+  margin-bottom: 50px;
+}
